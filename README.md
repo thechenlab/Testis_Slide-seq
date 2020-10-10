@@ -1,6 +1,6 @@
 # Testis_Slide-seq
 
-This repositaory contains custom code for analyzing testis Slide-seq data.
+This repository contains custom code for analyzing testis Slide-seq data.
 
 For the processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
    
