@@ -32,4 +32,21 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
            
            ‘9’:”Macrophage"}
 
-For information on NMFreg, please go to https://github.com/tudaga/NMFreg_tutorial.
+### For information on NMFreg, please go to https://github.com/tudaga/NMFreg_tutorial.
+
+### Seminiferous Tubule Assignment Workflow.ipynb 
+   
+    Convert Slide-seq data to image data and segment individual seminiferous tubules.
+   
+### Cellular Neighborhood Identification.ipynb
+
+    Identify cellular neighorboods by calculating cell type/state frequency for each window.
+    
+### Purity Score Calculation.ipynb
+
+    Calculate the ES purity score for wild type and diabetic seminiferous tubules. 
+    
+### Pairwise Spatial Contact Frequency Analysis.m 
+
+    Calculate the pairwise spatial contact frequency for wild type and diabetic seminiferous tubules. 
+
