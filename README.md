@@ -57,3 +57,7 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
 ### 3D_Segmentation.cpproj
     
     Perform 3D segmentation of the DAPI image stacks from the targeted in situ RNA sequencing experiment. 
+    
+### Bleedthrough_subtraction.m
+
+    Subtract the bleedthrough from the Cy3 channel in the Texas Red channel of the image stacks from the targeted in situ RNA sequencing experiment.
