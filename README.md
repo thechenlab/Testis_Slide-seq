@@ -1,6 +1,10 @@
 # Testis_Slide-seq
 
-This repository contains custom code for analyzing testis Slide-seq data.
+This repository contains custom code for analyzing data reported in the following paper:
+     
+   Dissecting Mammalian Spermatogenesis Using Spatial Transcriptomics
+     Haiqi Chen, Evan Murray, Anisha Laumas, Jilong Li, Xichen Nie, Jim Hotaling, Jingtao Guo, Bradley R. Cairns, Evan Z. Macosko, C. Yan Cheng, Fei Chen
+     bioRxiv 2020.10.17.343335; doi: https://doi.org/10.1101/2020.10.17.343335
 
 For the processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
    
@@ -50,3 +54,6 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
 
     Calculate the pairwise spatial contact frequency for wild type and diabetic seminiferous tubules. 
 
+### 3D_Segmentation.cpproj
+    
+    Perform 3D segmentation of the DAPI image stacks from the targeted in situ RNA sequencing experiment. 
