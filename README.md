@@ -38,9 +38,9 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
    
     Convert Slide-seq data to image data and segment individual seminiferous tubules.
    
-### Cellular Neighborhood Identification.ipynb
+### SPG_Compartment_Analysis.ipynb
 
-    Identify cellular neighorboods by calculating cell type/state frequency for each window.
+    Identify cellular neighorboods by calculating cell type frequency for each SPG neighborbood.
     
 ### Purity Score Calculation.ipynb
 
