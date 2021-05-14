@@ -2,7 +2,7 @@
 
 This repository contains custom code for analyzing data reported in the following paper:
      
-   Dissecting Mammalian Spermatogenesis Using Spatial Transcriptomics
+   ### Dissecting Mammalian Spermatogenesis Using Spatial Transcriptomics.
      Haiqi Chen, Evan Murray, Anisha Laumas, Jilong Li, Xichen Nie, Jim Hotaling, Jingtao Guo, Bradley R. Cairns, Evan Z. Macosko, C. Yan Cheng, Fei Chen
      bioRxiv 2020.10.17.343335; doi: https://doi.org/10.1101/2020.10.17.343335
 
