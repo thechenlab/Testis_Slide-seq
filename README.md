@@ -64,4 +64,4 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
 
 ### Targeted_inSitu_RNA_Seq_Pipeline_Testis.m
 
-    Perform image registration, peak calling, gene assignment and counting on image stacks from the targeted in situ RNA sequencing experiment. The Scripts folder       contain subsidiary code needed to run this pipeline. A bioformats java package (bioformats_package.jar) is also needed, and can be found here: 
+    Perform image registration, peak calling, gene assignment and counting on image stacks from the targeted in situ RNA sequencing experiment. The Scripts folder       contain subsidiary code needed to run this pipeline. A bioformats java package (bioformats_package.jar) is also needed, and can be downloaded here:                 https://www.dropbox.com/s/656b06xvar6n531/bioformats_package.jar?dl=0. After downloading, place the java package in the bfmatlab subfoler under the                 Scripts/helpers folder. All code in the Scripts folder need to be added to the same directory as the pipeline code. 
