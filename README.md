@@ -64,4 +64,4 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
 
 ### Targeted_inSitu_RNA_Seq_Pipeline_Testis.m
 
-    Perform image registration, peak calling, gene assignment and counting on image stacks from the targeted in situ RNA sequencing experiment. 
+    Perform image registration, peak calling, gene assignment and counting on image stacks from the targeted in situ RNA sequencing experiment. The Scripts folder       contain subsidiary code needed to run this pipeline. A bioformats java package (bioformats_package.jar) is also needed, and can be found here: 
