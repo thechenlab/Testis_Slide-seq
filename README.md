@@ -61,3 +61,7 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
 ### Bleedthrough_subtraction.m
 
     Subtract the bleedthrough from the Cy3 channel in the Texas Red channel of the image stacks from the targeted in situ RNA sequencing experiment.
+
+### Targeted_inSitu_RNA_Seq_Pipeline_Testis.m
+
+    Perform image registration, peak calling, gene assignment and counting on image stacks from the targeted in situ RNA sequencing experiment. 
