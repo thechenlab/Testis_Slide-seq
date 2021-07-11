@@ -44,7 +44,7 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
    
 ### SPG_Compartment_Analysis.ipynb
 
-    Identify cellular neighorboods by calculating cell type frequency for each SPG neighborbood.
+    Identify beads belonging to either the undifferentiated or differentiating SPG neighorbood.
     
 ### Purity Score Calculation.ipynb
 
