@@ -45,7 +45,11 @@ For the processed wild type and diabetic mouse Slide-seq datasets, please go to 
 ### SPG_Compartment_Analysis.ipynb
 
     Identify beads belonging to either the undifferentiated or differentiating SPG neighorbood.
-    
+
+### Differential Gene Expression Analysis for Undiff vs Diff SPG Neighborhood.R
+
+    Calculate differentially expressed genes in the undifferentiated vs differentiating SPG neighorbood using the output from SPG_Compartment_Analysis.ipynb as         input.
+
 ### Purity Score Calculation.ipynb
 
     Calculate the ES purity score for wild type and diabetic seminiferous tubules. 
