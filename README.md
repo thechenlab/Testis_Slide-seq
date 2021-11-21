@@ -2,9 +2,7 @@
 
 ### This repository contains custom code for analyzing data reported in the following paper:
      
-     Dissecting Mammalian Spermatogenesis Using Spatial Transcriptomics.
-     Haiqi Chen, Evan Murray, Anisha Laumas, Jilong Li, Xichen Nie, Jim Hotaling, Jingtao Guo, Bradley R. Cairns, Evan Z. Macosko, C. Yan Cheng, Fei Chen
-     bioRxiv 2020.10.17.343335; doi: https://doi.org/10.1101/2020.10.17.343335
+     Chen, H., Murray, E., Sinha, A., Laumas, A., Li, J., Lesman, D., Nie, X., Hotaling, J., Guo, J., Cairns, B. R., Macosko, E. Z., Cheng, C. Y., & Chen, F. (2021). Dissecting mammalian spermatogenesis using spatial transcriptomics. Cell reports, 37(5), 109915.
 
 For the processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
    
