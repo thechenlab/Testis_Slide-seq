@@ -5,6 +5,8 @@
      Chen, H., et al. (2021). Dissecting mammalian spermatogenesis using spatial transcriptomics. Cell reports, 37, 109915.
 
 For the processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
+
+For the processed normal human Slide-seq datasets, please go to https://www.dropbox.com/s/t7od7e01w55ddhq/Human.7z?dl=0.   
    
    There are three files for each dataset:
     
